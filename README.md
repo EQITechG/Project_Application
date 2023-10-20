@@ -7,7 +7,7 @@
   <a href="https://github.com/EQITechG/Project_Application">
   </a>
 
-<h3 align="center">Snakes and Ladder </h3>
+<h3 align="center">Client/Server Network Communication Application in Java </h3>
 
   <p align="center">
     <br />
