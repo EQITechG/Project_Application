@@ -13,7 +13,7 @@
     <br />
     <a href="https://github.com/EQITechG/Project_Application"><strong>Explore Repo »</strong></a>
     <br />
-    <a href="https://drive.google.com/file/d/1kcnb1Zl-Gk08B9sc6_5_mrI_uN16NvjN/view?usp=sharing">View Server Demo</a>
+    <a href="https://github.com/EQITechG/Project_Application/raw/main/Server/Executable%20Server.jar">View Server Demo</a>
        <br />
       <a href="https://github.com/EQITechG/Project_Application/raw/main/Client/Executable%20Client.jar">View Client Demo</a>
        <br />
