@@ -15,7 +15,7 @@
     <br />
     <a href="https://drive.google.com/file/d/1kcnb1Zl-Gk08B9sc6_5_mrI_uN16NvjN/view?usp=sharing">View Server Demo</a>
        <br />
-      <a href="https://github.com/EQITechG/Project_Application/blob/main/Client/Executable%20Client.jar">View Client Demo</a>
+      <a href="https://github.com/EQITechG/Project_Application/raw/main/Client/Executable%20Client.jar">View Client Demo</a>
        <br />
     ·
     <a href="https://github.com/EQITechG/Project_Application/issues">Report Bug</a>
